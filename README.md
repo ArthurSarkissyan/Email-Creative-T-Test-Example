@@ -7,6 +7,10 @@
 - This is an example of a t-test done to analyze the result of an A/B test of an email marketing campaign.
 - The metric that is being analyzed is the click through rate, which is the percentage of people who clicked on the advertisement.
 
+<p align="center">
+<img src="email-t-test.png" width="400" alt="a/b">
+</p>
+
 
 ## Code and Resources Used
 **Python Version:** 3.9 <br> 
