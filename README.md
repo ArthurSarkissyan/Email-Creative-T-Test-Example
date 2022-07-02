@@ -8,7 +8,7 @@
 - The metric that is being analyzed is the click through rate, which is the percentage of people who clicked on the advertisement.
 
 <p align="center">
-<img src="email-t-test.png" width="400" alt="a/b">
+<img src="email-t-tes.png" width="400" alt="a/b">
 </p>
 
 
